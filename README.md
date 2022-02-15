@@ -14,4 +14,6 @@ It serves content and also respond request, it serves something back.
 yusuf@Yusufs-MacBook-Pro full-stack-frontend % node simpleServer.js 
 Server started! listening on port 8080
 ```
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/85268263/153993623-9c5ce85d-b7bd-40f6-bb6b-54a048664f27.png">
+
 
